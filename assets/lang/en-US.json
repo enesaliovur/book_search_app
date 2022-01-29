@@ -1,0 +1,18 @@
+{
+    "home_title": "Books",
+    "search_hint_Text":"Search",
+    "favorite_title": "Favorites",
+    "search_button_text": "Search",
+    "authors": "Authors",
+    "publisher": "Publisher",
+    "pages": "Pages",
+    "published_at": "Published at",
+    "subtitle": "Subtitle",
+    "title":"Unknown",
+    "favorite_book_not_found":"Favorite Book Not Found",
+    "no_result_found" : "No Result Found",
+    "okey":"Okey" ,
+    "invalid_term":"Invalid Term"                           
+
+
+  }
